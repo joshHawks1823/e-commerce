@@ -3,7 +3,7 @@ const products = [
 
 
   {
-    _id: '1',
+   
     name: 'The Classic Toupee',
     image: '/images/toupee1.jpg',
     description:
@@ -14,7 +14,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
+    
     name: 'The Damsel in Distress',
     image: '/images/damsel.jpg',
     description:
@@ -25,7 +25,7 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
+   
     name: 'Glamour Girl',
     image: '/images/elegance1.jpg',
     description:
@@ -36,7 +36,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
+   
     name: 'The Mullet',
     image: '/images/mullet1.jpg',
     description:
@@ -47,7 +47,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
+   
     name: 'The Bob Marley',
     image: '/images/rastafari1.jpg',
     description:
@@ -58,7 +58,7 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
+   
     name: 'The Afro',
     image: '/images/afro1.jpg',
     description:
